@@ -26,7 +26,7 @@ In this example we will create a basic MLOps pipeline to put a credit card fraud
 
 Next, we will deploy the model from the Registry into an API Endpoint, and finally redeploy it with additional resources for High Availability and increased serving performance.
 
-The full code is available in this [git repository]().
+The full code is available in this [git repository](https://github.com/pdefusco/cml_api_articles/tree/main).
 
 ## Step by Step Guide
 
