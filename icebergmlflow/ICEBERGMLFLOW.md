@@ -10,7 +10,7 @@ In this example we will create an experiment with MLFlow Tracking and log Iceber
 
 ## Step by Step Guide
 
-The code samples provided below are extracts from the accompanying notebook. The full code can be found in this [git repository]().
+The code samples provided below are extracts from the accompanying notebook. The full code can be found in this [git repository](https://github.com/pdefusco/cml_api_articles).
 
 #### Setup
 
